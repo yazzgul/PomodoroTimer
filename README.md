@@ -1,3 +1,5 @@
 # PomodoroTimer
 
-This app is my test work of the IOS course of ITIS
+Это приложение является моей тестовой работой по курсу iOS ИТИС КФУ
+
+Я использовала архитектуру MVVM и фреймворк Combine для реактивного программирования
